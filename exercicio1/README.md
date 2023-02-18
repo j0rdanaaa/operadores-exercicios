@@ -11,3 +11,4 @@ c) Teste o programa com diversos números pares. Você notou um padrão? Escreva
 d) O que acontece no console se o usuário inserir um número ímpar? Escreva em um comentário de código.
 
 >💡  **Dica**:   não se esqueça de **converter** as respostas para o tipo número
+
